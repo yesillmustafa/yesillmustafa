@@ -3,7 +3,7 @@
 <h3 align="center">A passionate web developer from Turkey</h3>  
 
 
-<p align="center"> 🌱 I’m currently learning <strong> Mobile Development, Java & Kotlin </strong> </p>
+<p align="center"> 🌱 I’m currently learning <strong> Mobile Development </strong> </p>
   
 <p align="center"> 📫 How to reach me <strong>dev.mustafayesil@gmail.com </strong>  </p>
 
