@@ -1,9 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Mustafa Yesil</h1>  
-<h3 align="center">A passionate web developer from Turkey</h3>  
-
-
-<p align="center"> 🌱 I’m currently learning <strong> Mobile Development </strong> </p>
+<h3 align="center">A passionate developer from Turkey</h3>  
   
 <p align="center"> 📫 How to reach me <strong>dev.mustafayesil@gmail.com </strong>  </p>
 
